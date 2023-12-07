@@ -1,5 +1,3 @@
-## the-reef (https://github.com/tarah-s/aframe-the-reef)
-
 A-Frame coral reef builder example for WebVR
 
 The Reef is is my first step into WebVR using A-Frame. An educational look and click experience designed for the Google Cardboard for anyone with a mobile phone capable of WebVR with the target audience being school kids.
